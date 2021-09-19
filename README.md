@@ -1,5 +1,5 @@
 # ML-Notebooks (Machine Learning)
-Jupiter Notebooks for machine learning examples
+Jupiter Notebooks for machine learning written i n Python
 
 ### Links:
 - K-Nearest Neighbors: [click here](https://colab.research.google.com/drive/1Jbq9Z8yJ6tMElVn-ml6MfOu0qqCn6fct?usp=sharing)
